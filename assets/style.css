@@ -1,3 +1,7 @@
-body {
-    color: red
+.jumbotron {
+    margin: 29px;
+    background-color: #399cbd;
+    padding: 0px 0px;
+    border: none;
+    color:#399cbd ;
 }

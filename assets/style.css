@@ -1,7 +1,8 @@
 .jumbotron {
     margin: 29px;
-    background-color: #399cbd;
+    background-color: #399cbd !important;
     padding: 0px 0px;
     border: none;
-    color:#399cbd ;
+    color: white;
+    
 }

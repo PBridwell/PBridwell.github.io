@@ -41,3 +41,24 @@ hr {
     margin-bottom: 20px;
 }
 
+#landing-head { 
+    margin: 25px auto;
+    background-color: white;
+}
+
+#landing-head h6 {
+    margin-top: 18px;
+    margin-bottom: 45px;
+}
+
+#slideshow { 
+    margin-bottom: 50px;
+}
+
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: -200;
+    width: 100%;
+    text-align: center;
+ }

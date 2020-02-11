@@ -1,8 +1,32 @@
-.jumbotron {
-    margin: 29px;
-    background-color: #399cbd !important;
-    padding: 0px 0px;
-    border: none;
-    color: white;
-    
+
+
+/* Style for greeting box on contact page*/
+.row { 
+ height: 280px;
+ background-color: #399cbd;
+ padding: 0px auto;
+ border-radius: 6px;
+ margin-bottom: 10px;
+ color: whitesmoke;
 }
+p {
+    padding: 15px;
+
+}
+/* style for line in greeting box */
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+#portfolio-heading { 
+    height: 125px;
+    width: 100%;
+    background-color:#399cbd;
+}
+
+ #portfolio-heading h2 {
+    margin: 15px auto;
+}
+

@@ -1,7 +1,8 @@
 
 
 /* Style for greeting box on contact page*/
-.row { 
+.row
+#contact-box { 
  height: 280px;
  background-color: #399cbd;
  padding: 0px auto;
@@ -11,6 +12,12 @@
 }
 p {
     padding: 15px;
+
+}
+
+.form-group { 
+ margin-top: 20px;
+
 
 }
 /* style for line in greeting box */
@@ -23,10 +30,14 @@ hr {
 #portfolio-heading { 
     height: 125px;
     width: 100%;
-    background-color:#399cbd;
 }
 
  #portfolio-heading h2 {
     margin: 15px auto;
+}
+
+#project-card {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 

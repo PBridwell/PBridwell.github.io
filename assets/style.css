@@ -64,11 +64,10 @@ hr {
     border: 1px solid grey
  }
 
- #profile, 
- #hublink { 
-     color: #4287f5;
+ .btn-outline-success {
+     display: flex;
+     align-content: center;
+     margin: 8px;
  }
 
- /* #hublink { 
-    color: #4287f5;
- } */
+ 

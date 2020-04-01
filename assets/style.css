@@ -63,3 +63,12 @@ hr {
     text-align: center;
     border: 1px solid grey
  }
+
+ #profile, 
+ #hublink { 
+     color: #4287f5;
+ }
+
+ /* #hublink { 
+    color: #4287f5;
+ } */
